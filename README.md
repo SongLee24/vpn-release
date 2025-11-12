@@ -1,7 +1,5 @@
 # vpn-release
 
-Reference：https://github.com/releases1?tab=repositories
-
 
 ## 1、OuONetwork
 
@@ -274,3 +272,6 @@ Unicorn Cloud 独角兽机场，2023 年开业小众机场，低调运营，不�
 优缺点：
 
 多入口，线路丰富。新机场，月付保平安。
+
+---
+Reference：https://github.com/releases1?tab=repositories
