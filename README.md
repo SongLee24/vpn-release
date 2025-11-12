@@ -57,6 +57,10 @@ OuO Network机场，高效稳定的SD-WAN线路，安全的hadowsocks Hash加密
 
 ## 3、Bitz Net
 
+最新地址：[getbitznet.com](https://dir3.bnaffloop.com/#/register?code=KvAcbtC6)
+
+备用：[getbitznet.com](https://gobitznet.com/aff=KvAcbtC6)
+
 Bitz Net机场是一个连续经营6年的老牌机场。覆盖全球 17 个国家与地区的 20 余个数据中心，包括香港，台湾，日本，韩国，新加坡，美国，英国，法国，德国，澳大利亚，俄罗斯，菲律宾，土耳其，阿根廷，巴西，印度，沙特并且仍在持续部署当中。
 
 Bitz Net机场拥有Android，Windows，macOS的官方客户端客户端，使用方便防止失联。
